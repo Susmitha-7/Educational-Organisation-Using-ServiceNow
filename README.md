@@ -1,6 +1,8 @@
 # Educational-Organisation-Using-ServiceNow
 This project demonstrates how to build and manage an Educational Organisation System using ServiceNow. It covers the creation of custom tables, workflows, and forms to handle educational data such as admissions, student progress, and records. The goal is to showcase how ServiceNow can streamline processes, automate workflows, and centralize data management in an academic setting.
 
+The Educational Management System is a comprehensive platform designed to streamline administrative tasks within educational institutions. It facilitates efficient management of student and teacher data, simplifies the admission process, and provides tools for monitoring student progress.
+
 **📌 Project Overview**
 
 Educational institutions deal with large amounts of data related to students, admissions, and faculty. Manual handling can be time-consuming and error-prone. With ServiceNow, these processes can be automated and digitized for better efficiency.
