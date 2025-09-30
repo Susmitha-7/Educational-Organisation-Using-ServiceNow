@@ -53,3 +53,7 @@ This project can be extended to real-world schools, colleges, and universities t
 Digitize student admission processes.
 Track and analyze student performance.
 Manage faculty and administrative workflows.
+
+**Demo Link :**
+
+https://drive.google.com/file/d/1snuCSpsTYUwwghE38sh3JB1vgRG7Q8FT/view?usp=sharing
